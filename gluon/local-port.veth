@@ -1,0 +1,5 @@
+[Device]
+Peer=local-node
+
+[Bridge]
+Master=br-client

@@ -1,0 +1,11 @@
+[Properties]
+Device=string
+
+[Generate]
+Type=vxlan
+Name=vx-%{Device}
+
+[VXLAN]
+Device=%{Device}
+
+[gluon-mesh]

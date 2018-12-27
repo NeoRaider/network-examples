@@ -1,0 +1,6 @@
+[Device]
+Namespace=uplink
+
+[DHCP]
+
+[DHCPv6]

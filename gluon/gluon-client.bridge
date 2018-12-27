@@ -1,0 +1,7 @@
+[Device]
+MACAddr=XXX
+
+[Static]
+XXX
+
+[DHCPv6]

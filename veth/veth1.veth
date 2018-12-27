@@ -1,0 +1,6 @@
+[Device]
+Peer=veth0
+
+[Static]
+Address=2001:db8::2/64
+Address=192.0.2.2/24
